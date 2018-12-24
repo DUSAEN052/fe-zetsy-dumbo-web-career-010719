@@ -18,3 +18,11 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header {
+  display: block
+}
+
+img {
+  padding: 1px;
+}
